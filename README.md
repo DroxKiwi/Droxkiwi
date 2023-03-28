@@ -15,8 +15,6 @@ Hi, I am a full stack web developper, I start my own start-up<br>with 8 collabor
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DroxKiwi&icon=7&color=11)](https://visitcount.itsvg.in)
