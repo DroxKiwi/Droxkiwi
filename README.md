@@ -12,7 +12,6 @@ Hi, I am a full stack web developper, I start my own start-up<br>with 8 collabor
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DroxKiwi&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DroxKiwi&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
