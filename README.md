@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a full stack web developper, I start my own start-up<br>with 8 collaborators in 2021. <br><br>webapp.bewaveofficial.com to learn more !
+Hi
 
 
 ## 🌐 Socials:
