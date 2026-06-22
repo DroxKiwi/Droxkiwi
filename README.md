@@ -83,26 +83,24 @@ Interface **terminal** · boucle agent **`tui_mono`** en **Rust** · scripts d'i
 
 ## Statistiques
 
+> Données **par dépôt** (API GitHub) — pas le calendrier global du compte.
+
 <div align="center">
 
-[![Commits Drox IDE](https://img.shields.io/github/commit-activity/t/DroxKiwi/Drox---IDE---OR?label=commits%20%2F%20semaine%20%C2%B7%20IDE&labelColor=0d1117&color=5BA4C9)](https://github.com/DroxKiwi/Drox---IDE---OR/graphs/commit-activity)
-[![Commits Drox TUI](https://img.shields.io/github/commit-activity/t/DroxKiwi/Drox---TUI---OR?label=commits%20%2F%20semaine%20%C2%B7%20TUI&labelColor=0d1117&color=5BA4C9)](https://github.com/DroxKiwi/Drox---TUI---OR/graphs/commit-activity)
-
-<br/><br/>
-
-**Drox IDE** — activité des commits dans le temps
+[![Drox IDE](https://github-readme-stats.vercel.app/api/pin/?username=DroxKiwi&repo=Drox---IDE---OR&theme=tokyonight&hide_border=true&title_color=5BA4C9&icon_color=5BA4C9&text_color=c9d1d9&bg_color=0d1117&locale=fr)](https://github.com/DroxKiwi/Drox---IDE---OR)
+[![Drox TUI](https://github-readme-stats.vercel.app/api/pin/?username=DroxKiwi&repo=Drox---TUI---OR&theme=tokyonight&hide_border=true&title_color=5BA4C9&icon_color=5BA4C9&text_color=c9d1d9&bg_color=0d1117&locale=fr)](https://github.com/DroxKiwi/Drox---TUI---OR)
 
 <br/>
 
-<img width="49%" src="https://commitpulse.vercel.app/api/streak?user=DroxKiwi&repo=DroxKiwi%2FDrox---IDE---OR&theme=dark&accent=5BA4C9&bg=0d1117&text=c9d1d9&lang=fr&size=small&speed=6s&entrance=rise" alt="Historique des commits — Drox IDE" />
-
-<br/><br/>
-
-**Drox TUI** — activité des commits dans le temps
+[![Commits / semaine · IDE](https://img.shields.io/github/commit-activity/w/DroxKiwi/Drox---IDE---OR?label=commits%20%2F%20semaine%20%C2%B7%20IDE&labelColor=0d1117&color=5BA4C9)](https://github.com/DroxKiwi/Drox---IDE---OR/graphs/commit-activity)
+[![Commits / mois · IDE](https://img.shields.io/github/commit-activity/m/DroxKiwi/Drox---IDE---OR?label=commits%20%2F%20mois%20%C2%B7%20IDE&labelColor=0d1117&color=5BA4C9)](https://github.com/DroxKiwi/Drox---IDE---OR/graphs/commit-activity)
+[![Dernière MAJ · IDE](https://img.shields.io/github/last-commit/DroxKiwi/Drox---IDE---OR?label=derni%C3%A8re%20MAJ%20%C2%B7%20IDE&labelColor=0d1117&color=5BA4C9)](https://github.com/DroxKiwi/Drox---IDE---OR/commits/main/)
 
 <br/>
 
-<img width="49%" src="https://commitpulse.vercel.app/api/streak?user=DroxKiwi&repo=DroxKiwi%2FDrox---TUI---OR&theme=dark&accent=5BA4C9&bg=0d1117&text=c9d1d9&lang=fr&size=small&speed=6s&entrance=rise" alt="Historique des commits — Drox TUI" />
+[![Commits / semaine · TUI](https://img.shields.io/github/commit-activity/w/DroxKiwi/Drox---TUI---OR?label=commits%20%2F%20semaine%20%C2%B7%20TUI&labelColor=0d1117&color=5BA4C9)](https://github.com/DroxKiwi/Drox---TUI---OR/graphs/commit-activity)
+[![Commits / mois · TUI](https://img.shields.io/github/commit-activity/m/DroxKiwi/Drox---TUI---OR?label=commits%20%2F%20mois%20%C2%B7%20TUI&labelColor=0d1117&color=5BA4C9)](https://github.com/DroxKiwi/Drox---TUI---OR/graphs/commit-activity)
+[![Dernière MAJ · TUI](https://img.shields.io/github/last-commit/DroxKiwi/Drox---TUI---OR?label=derni%C3%A8re%20MAJ%20%C2%B7%20TUI&labelColor=0d1117&color=5BA4C9)](https://github.com/DroxKiwi/Drox---TUI---OR/commits/main/)
 
 </div>
 
