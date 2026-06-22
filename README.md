@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Drox IDE & Drox TUI
+## Drox IDE & Drox TUI
 
 <div align="center">
 
