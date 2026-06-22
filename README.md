@@ -15,63 +15,100 @@
 
 ---
 
-## 🚀 Projets Drox
+## 🚀 Drox IDE & Drox TUI
 
 <div align="center">
 
 [![Drox IDE](https://github-readme-stats.vercel.app/api/pin/?username=DroxKiwi&repo=Drox---IDE---OR&theme=tokyonight&hide_border=true&title_color=5BA4C9&icon_color=5BA4C9&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DroxKiwi/Drox---IDE---OR)
 [![Drox TUI](https://github-readme-stats.vercel.app/api/pin/?username=DroxKiwi&repo=Drox---TUI---OR&theme=tokyonight&hide_border=true&title_color=5BA4C9&icon_color=5BA4C9&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DroxKiwi/Drox---TUI---OR)
 
+<br/>
+
+[![Drox IDE release](https://img.shields.io/github/v/release/DroxKiwi/Drox---IDE---OR?label=Drox%20IDE&style=flat-square&color=5BA4C9)](https://github.com/DroxKiwi/Drox---IDE---OR/releases/latest)
+[![Drox TUI release](https://img.shields.io/github/v/release/DroxKiwi/Drox---TUI---OR?label=Drox%20TUI&style=flat-square&color=5BA4C9)](https://github.com/DroxKiwi/Drox---TUI---OR/releases/latest)
+[![Drox IDE stars](https://img.shields.io/github/stars/DroxKiwi/Drox---IDE---OR?style=flat-square&color=5BA4C9)](https://github.com/DroxKiwi/Drox---IDE---OR/stargazers)
+[![Drox TUI stars](https://img.shields.io/github/stars/DroxKiwi/Drox---TUI---OR?style=flat-square&color=5BA4C9)](https://github.com/DroxKiwi/Drox---TUI---OR/stargazers)
+
 </div>
 
-> **Drox IDE** — releases officielles de l'environnement de développement intégré.  
-> **Drox TUI** — releases officielles de l'interface terminal.
+| | [**Drox IDE**](https://github.com/DroxKiwi/Drox---IDE---OR) | [**Drox TUI**](https://github.com/DroxKiwi/Drox---TUI---OR) |
+|---|---|---|
+| **Rôle** | Releases officielles de l'éditeur (fork VS Code + chat agent) | Releases officielles du terminal agent |
+| **Interface** | Éditeur graphique · LSP · diffs · wizard connexion IA | Terminal `drox-tui` · fil chronologique · `/diff` |
+| **Moteur** | `drox.exe` + shim RPC → boucle **`tui_mono`** | Boucle **`tui_mono`** embarquée (Rust) |
+| **Plateformes** | Windows (Linux prévu) | Windows · Linux |
+| **Télécharger** | [Dernière release IDE](https://github.com/DroxKiwi/Drox---IDE---OR/releases/latest) | [Dernière release TUI](https://github.com/DroxKiwi/Drox---TUI---OR/releases/latest) |
 
-Suivez l'avancement en direct sur [@droxdev](https://www.instagram.com/droxdev/) 📸
+> Même boucle agent, mêmes backends LLM. Le **TUI** pour débuter léger ; l'**IDE** pour coder dans l'UI.  
+> Suivre l'avancement sur [@droxdev](https://www.instagram.com/droxdev/) 📸
 
 ---
 
 ## À propos
 
-**Drox** est le moteur que je construis — un projet long terme autour de la **performance**, d'une **architecture solide** et d'une **vision créative**.  
-Les dépôts ci-dessus centralisent les releases ; ce profil est la vitrine du projet.
+**Drox** est un moteur agent **local** pour des **agents légers** — souveraineté numérique, inférence chez toi (Ollama, vLLM…), sessions dans **`.drox/`** sur disque.  
+Ces deux dépôts centralisent les **binaires et mises à jour** ; ce profil en est la vitrine.
 
 ---
 
 ## Stack & outils
 
+### Drox IDE
+
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-drox.exe-000000?style=flat-square&logo=rust&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-OpenAI%20API-5BA4C9?style=flat-square)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-1A1A2E?style=flat-square)
+![JSON-RPC](https://img.shields.io/badge/Shim-JSON--RPC-5BA4C9?style=flat-square)
+
+</div>
+
+Éditeur type **VS Code** · moteur **Rust** en local · connexion **Ollama / vLLM / LM Studio / API compatible OpenAI**.
+
+### Drox TUI
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-tui__mono-000000?style=flat-square&logo=rust&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-TUI-5BA4C9?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-install-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-OpenAI%20API-5BA4C9?style=flat-square)
 
 </div>
 
----
+Agent **terminal** en **Rust** · install **Windows / Linux** · mêmes backends d'inférence que l'IDE.
 
-## GitHub
+### Commun
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DroxKiwi&show_icons=true&theme=tokyonight&hide_border=true&title_color=5BA4C9&icon_color=5BA4C9" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=DroxKiwi&theme=tokyonight&hide_border=true&ring=5BA4C9&fire=5BA4C9&currStreakLabel=5BA4C9" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DroxKiwi&theme=tokyonight&hide_border=true&layout=compact&title_color=5BA4C9" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DroxKiwi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5BA4C9&line=5BA4C9&point=ffffff&area=true" width="100%" alt="Activity graph" />
+![Ollama](https://img.shields.io/badge/Ollama-inf%C3%A9rence%20locale-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-cloud-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Mistral](https://img.shields.io/badge/Mistral%20AI-cloud-FF7000?style=flat-square)
+![JSON](https://img.shields.io/badge/Sessions-.drox%2F-5BA4C9?style=flat-square)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5BA4C9&height=80&section=footer&text=Corentin+Fredj&fontSize=16&fontColor=ffffff&animation=scaleIn" width="100%" alt="Footer" />
+## Statistiques
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DroxKiwi&repo=Drox---IDE---OR&theme=tokyonight&hide_border=true&layout=compact&title_color=5BA4C9&bg_color=0d1117" alt="Langages Drox IDE" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DroxKiwi&repo=Drox---TUI---OR&theme=tokyonight&hide_border=true&layout=compact&title_color=5BA4C9&bg_color=0d1117" alt="Langages Drox TUI" />
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5BA4C9&height=80&section=footer&text=%C2%A9+Drox&fontSize=16&fontColor=ffffff&animation=scaleIn" width="100%" alt="Footer" />
