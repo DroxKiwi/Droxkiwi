@@ -4,7 +4,7 @@
 
 <img src="logo3.png" width="150" alt="Logo Drox" />
 
-[![Animation texte](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=50&pause=5000&color=5BA4C9&center=true&vCenter=true&multiline=true&width=620&height=95&lines=Moteur+Drox;IDE+%26+TUI+en+d%C3%A9veloppement+actif;Moteur+local+%E2%80%A2+Agents+l%C3%A9gers+%E2%80%A2+Inference+locale)](https://git.io/typing-svg)
+[![Animation texte](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=6000&color=5BA4C9&center=true&vCenter=true&multiline=true&width=620&height=95&lines=Moteur+Drox;IDE+%26+TUI+en+d%C3%A9veloppement+actif;Moteur+local+%E2%80%A2+Agents+l%C3%A9gers+%E2%80%A2+Inference+locale)](https://git.io/typing-svg)
 
 <br/>
 
