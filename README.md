@@ -9,7 +9,6 @@
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-@droxdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/droxdev/)
-[![GitHub](https://img.shields.io/badge/GitHub-DroxKiwi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DroxKiwi)
 
 </div>
 
@@ -21,8 +20,6 @@
 
 [![Version Drox IDE](https://img.shields.io/github/v/release/DroxKiwi/Drox---IDE---OR?label=Drox%20IDE&style=flat-square&color=5BA4C9)](https://github.com/DroxKiwi/Drox---IDE---OR/releases/latest)
 [![Version Drox TUI](https://img.shields.io/github/v/release/DroxKiwi/Drox---TUI---OR?label=Drox%20TUI&style=flat-square&color=5BA4C9)](https://github.com/DroxKiwi/Drox---TUI---OR/releases/latest)
-[![Étoiles Drox IDE](https://img.shields.io/github/stars/DroxKiwi/Drox---IDE---OR?label=%C3%A9toiles%20IDE&style=flat-square&color=5BA4C9)](https://github.com/DroxKiwi/Drox---IDE---OR/stargazers)
-[![Étoiles Drox TUI](https://img.shields.io/github/stars/DroxKiwi/Drox---TUI---OR?label=%C3%A9toiles%20TUI&style=flat-square&color=5BA4C9)](https://github.com/DroxKiwi/Drox---TUI---OR/stargazers)
 
 </div>
 
